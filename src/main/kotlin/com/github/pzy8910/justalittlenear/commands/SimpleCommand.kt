@@ -1,6 +1,6 @@
-package com.example.commands
+package com.github.pzy8910.justalittlenear.commands
 
-import com.example.errors.CommandError
+import com.github.pzy8910.justalittlenear.errors.CommandError
 import net.minecraft.command.CommandBase
 import net.minecraft.command.ICommandSender
 import net.minecraft.util.BlockPos
